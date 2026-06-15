@@ -14,7 +14,7 @@ https://www.inaturalist.org/projects/funcapalooza-2025-panama-seedling-benchmark
 
 A frozen snapshot of benchmark observations and labels is provided in:
 
-metadata/benchmark_observations.csv
+[benchmark_observations.csv](benchmark_observations.csv)
 
 ## Taxonomic Labels
 
