@@ -38,7 +38,7 @@ This benchmark was derived from observations collected as part of the SeedLearn 
 
 ## Citation
 
-Huanca-Nunez et al, 2026.
+Huanca-Nunez et al, 2025.
 
 *FuncaPalooza 2025 Panama Seedling Benchmark*.
 
